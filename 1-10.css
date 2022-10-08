@@ -21,12 +21,15 @@ main{
 
 .step-box{
   width:300px;
-  margin-right: 20px;
+  margin-right: 30px;
   padding: 10px;
   background-color: #EEEEEE;
   position: relative;
 }
 
+.step-box3{
+  margin-right: 0;
+}
 
 .step-number{
   position: absolute;
